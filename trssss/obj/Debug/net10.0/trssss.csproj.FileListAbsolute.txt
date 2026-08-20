@@ -1,0 +1,15 @@
+C:\trabajo_may\elite2\trssss\obj\Debug\net10.0\trssss.GeneratedMSBuildEditorConfig.editorconfig
+C:\trabajo_may\elite2\trssss\obj\Debug\net10.0\trssss.AssemblyInfoInputs.cache
+C:\trabajo_may\elite2\trssss\obj\Debug\net10.0\trssss.AssemblyInfo.cs
+C:\trabajo_may\elite2\trssss\obj\Debug\net10.0\trssss.csproj.CoreCompileInputs.cache
+C:\trabajo_may\elite2\trssss\obj\Debug\net10.0\trssss.sourcelink.json
+C:\trabajo_may\elite2\trssss\bin\Debug\net10.0\trssss.exe
+C:\trabajo_may\elite2\trssss\bin\Debug\net10.0\trssss.deps.json
+C:\trabajo_may\elite2\trssss\bin\Debug\net10.0\trssss.runtimeconfig.json
+C:\trabajo_may\elite2\trssss\bin\Debug\net10.0\trssss.dll
+C:\trabajo_may\elite2\trssss\bin\Debug\net10.0\trssss.pdb
+C:\trabajo_may\elite2\trssss\obj\Debug\net10.0\trssss.dll
+C:\trabajo_may\elite2\trssss\obj\Debug\net10.0\refint\trssss.dll
+C:\trabajo_may\elite2\trssss\obj\Debug\net10.0\trssss.pdb
+C:\trabajo_may\elite2\trssss\obj\Debug\net10.0\trssss.genruntimeconfig.cache
+C:\trabajo_may\elite2\trssss\obj\Debug\net10.0\ref\trssss.dll
