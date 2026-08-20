@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\trabajo_may\\elite2\\trssss\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28005B14-9461-EBD6-EF15-1519F74B6613}|trssss.csproj|c:\\trabajo_may\\elite2\\trssss\\trssss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{28005B14-9461-EBD6-EF15-1519F74B6613}|trssss.csproj|solutionrelative:trssss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{28005B14-9461-EBD6-EF15-1519F74B6613}|trssss.csproj|c:\\trabajo_may\\elite2\\trssss\\clase03\\jjj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{28005B14-9461-EBD6-EF15-1519F74B6613}|trssss.csproj|solutionrelative:clase03\\jjj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{28005B14-9461-EBD6-EF15-1519F74B6613}|trssss.csproj|c:\\trabajo_may\\elite2\\trssss\\clase02\\uno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,36 +22,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "trssss",
-              "DocumentMoniker": "C:\\trabajo_may\\elite2\\trssss\\trssss.csproj",
-              "RelativeDocumentMoniker": "trssss.csproj",
-              "ToolTip": "C:\\trabajo_may\\elite2\\trssss\\trssss.csproj",
-              "RelativeToolTip": "trssss.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-20T19:16:48.507Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "uno.cs",
-              "DocumentMoniker": "C:\\trabajo_may\\elite2\\trssss\\clase02\\uno.cs",
-              "RelativeDocumentMoniker": "clase02\\uno.cs",
-              "ToolTip": "C:\\trabajo_may\\elite2\\trssss\\clase02\\uno.cs",
-              "RelativeToolTip": "clase02\\uno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "jjj.cs",
+              "DocumentMoniker": "C:\\trabajo_may\\elite2\\trssss\\clase03\\jjj.cs",
+              "RelativeDocumentMoniker": "clase03\\jjj.cs",
+              "ToolTip": "C:\\trabajo_may\\elite2\\trssss\\clase03\\jjj.cs",
+              "RelativeToolTip": "clase03\\jjj.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T19:15:11.635Z",
+              "WhenOpened": "2026-08-20T19:25:39.384Z",
               "EditorCaption": ""
             },
             {
@@ -64,7 +51,25 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T19:02:14.963Z",
+              "WhenOpened": "2026-08-20T19:02:14.963Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uno.cs",
+              "DocumentMoniker": "C:\\trabajo_may\\elite2\\trssss\\clase02\\uno.cs",
+              "RelativeDocumentMoniker": "clase02\\uno.cs",
+              "ToolTip": "C:\\trabajo_may\\elite2\\trssss\\clase02\\uno.cs",
+              "RelativeToolTip": "clase02\\uno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T19:15:11.635Z",
               "EditorCaption": ""
             }
           ]
