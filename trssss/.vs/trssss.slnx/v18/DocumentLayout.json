@@ -22,11 +22,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "uno.cs",
+              "DocumentMoniker": "C:\\trabajo_may\\elite2\\trssss\\clase02\\uno.cs",
+              "RelativeDocumentMoniker": "clase02\\uno.cs",
+              "ToolTip": "C:\\trabajo_may\\elite2\\trssss\\clase02\\uno.cs",
+              "RelativeToolTip": "clase02\\uno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-20T21:55:54.976Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -36,7 +49,7 @@
               "RelativeDocumentMoniker": "clase03\\jjj.cs",
               "ToolTip": "C:\\trabajo_may\\elite2\\trssss\\clase03\\jjj.cs",
               "RelativeToolTip": "clase03\\jjj.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAgwP8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-20T19:25:39.384Z",
               "EditorCaption": ""
@@ -52,25 +65,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-08-20T19:02:14.963Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 200,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "uno.cs",
-              "DocumentMoniker": "C:\\trabajo_may\\elite2\\trssss\\clase02\\uno.cs",
-              "RelativeDocumentMoniker": "clase02\\uno.cs",
-              "ToolTip": "C:\\trabajo_may\\elite2\\trssss\\clase02\\uno.cs",
-              "RelativeToolTip": "clase02\\uno.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-20T19:15:11.635Z",
-              "EditorCaption": ""
             }
           ]
         }
