@@ -64,7 +64,7 @@ namespace trssss.clase02
             double num2 = double.Parse(Console.ReadLine());
 
             Console.WriteLine("Suma: " + num1 + num2);
-            Console.WriteLine($"Resta: " {num1 - num2}");
+            Console.WriteLine("Resta:" + (num1 - num2));
             Console.WriteLine("Multiplicación: " + num1 * num2);
             Console.WriteLine("División: " + num1 / num2);
 
